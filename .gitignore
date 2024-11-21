@@ -1,2 +1,4 @@
 # serve para ignorar quando subir no github
 node_modules
+mongodb-acess.txt
+.env
